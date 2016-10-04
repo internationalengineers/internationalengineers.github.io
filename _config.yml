@@ -1,0 +1,59 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title-bold: International
+title-normal: Engineers
+email: dalberto.adler@gmail.com
+description: Connecting the best software developers from around the world with the top UK companies.
+# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+# url: "https://andrewbanchich.gitlab.io/forty-jekyll-theme/" # the base hostname & protocol for your site
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+author:
+street_address: 55 Lock Rd
+city: London
+# state: TN
+# zip_code: 55555
+country: United Kingdom
+phone: (+44) 07495601710
+
+# Plugins
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jemoji
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/International-Engineers-190711021338634
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
+
+# Build settings
+markdown: kramdown
+
+# Plugin: jekyll-seo-tag
+# twitter:
+#   username: andrewbanchich
+# Add one or more of the following
+facebook:
+  app_id:
+  publisher:
+  admins:
+logo: assets/images/logo.png
+google_site_verification:
