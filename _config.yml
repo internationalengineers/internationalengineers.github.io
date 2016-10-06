@@ -6,14 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: International
-title-normal: Engineers
+title-bold: International Engineers
+# title-normal:
 email: dalberto.adler@gmail.com
 description: Connecting the best software developers from around the world with the top UK companies.
-# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-# url: "https://andrewbanchich.gitlab.io/forty-jekyll-theme/" # the base hostname & protocol for your site
-# url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
-url: "https://internationalengineers.github.io" # the base hostname & protocol for your site
 author:
 street_address: 55 Lock Rd
 city: London
