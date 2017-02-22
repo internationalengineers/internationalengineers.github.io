@@ -100,7 +100,7 @@ nav-menu:
 		<div class="row">
 			<div class="6u 12u$(small)">
 				<h3>David Alberto Adler</h3>
-				<h4>Co-Founder & Technical Recruiter</h4>
+				<h4>Co Founder & Technical Recruiter</h4>
 				<p>
 				<span class="image left"><img src="assets/images/david.jpg" alt=""></span>
 				David has over 6 years experience in software development and has a sharp mind for technical interviews ensuring the very best quality developers. Find out <a href="http://mfbx9da4.github.io">more about David here</a>.</p>
