@@ -88,5 +88,33 @@ nav-menu:
 	</section>
 </section>
 
+<!-- Four -->
+<section id="four">
+	<div class="inner">
+
+		<div class="row">
+			<header class="major">
+				<h2>The team</h2>
+			</header>
+		</div>
+		<div class="row">
+			<div class="6u 12u$(small)">
+				<h3>David Alberto Adler</h3>
+				<h4>Co-Founder & Technical Recruiter</h4>
+				<p>
+				<span class="image left"><img src="assets/images/david.jpg" alt=""></span>
+				David has over 6 years experience in software development and has a sharp mind for technical interviews ensuring the very best quality developers. Find out <a href="http://mfbx9da4.github.io">more about David here</a>.</p>
+			</div>
+			<div class="6u$ 12u$(small)">
+				<h3>Krystopher Netto</h3>
+				<h4>Co Founder & Talent Specialist</h4>
+				<p>
+				<span class="image left"><img src="assets/images/krys.jpg" alt=""></span>
+				Krystopher specializes in creative ways of connecting with reaching out to the best developers.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
 </div>
 

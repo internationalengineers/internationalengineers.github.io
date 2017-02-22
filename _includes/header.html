@@ -3,7 +3,23 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ site.url }}{{ site.baseurl }}" class="logo"><strong>{{ site.title-bold }}</strong> <span>{{ site.title-normal }}</span></a>
+<style>
+	.logo span {
+		padding: 0;
+		margin: 0;
+		font-size: 1em;
+		letter-spacing: auto;
+	}
+	.logo font-1 {
+		font-weight: bold;
+	}
+</style>
+	<a href="{{ site.url }}{{ site.baseurl }}" class="logo">
+		<!-- <strong>{{ site.title-bold }}</strong> <span>{{ site.title-normal }}</span> -->
+		<span class="font-2">>_</span>
+		<span class='font-1' style="font-family: sans-serif; text-transform: lowercase;">int</span>
+		<span class='font-2' style="font-family: courier">Eng</span>
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
