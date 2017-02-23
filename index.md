@@ -110,7 +110,7 @@ nav-menu:
 				<h4>Co Founder & Talent Specialist</h4>
 				<p>
 				<span class="image left"><img src="assets/images/krys.jpg" alt=""></span>
-				Krystopher specializes in creative ways of connecting with reaching out to the best developers.</p>
+				Krystopher specializes in creative ways of connecting with and reaching out to the best developers.</p>
 			</div>
 		</div>
 	</div>
